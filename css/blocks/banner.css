@@ -1,0 +1,28 @@
+.banner {
+    background-color: #e5c288;
+    padding-top: 13px;
+}
+
+.banner__title {
+    max-width: 39%;
+    color: #202123;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 1.1;
+    margin-right: 172px;
+}
+
+.banner__content {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.banner__phone {
+    max-width: 531px;
+    height: 348px;
+}
+
+.banner__phone-img {
+    vertical-align: bottom;
+}

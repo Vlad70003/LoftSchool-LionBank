@@ -1,0 +1,17 @@
+.contacts {
+    margin-left: auto;
+    line-height: 1.1;
+    text-align: right;
+    font-style: normal;
+    position: relative;
+}
+
+.contacts__phone {
+    font-size: 26px;
+    color: #fff;
+}
+
+.contacts__free {
+    font-size: 11px;
+    color: #999999;
+}
